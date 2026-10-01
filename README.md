@@ -26,9 +26,12 @@ print(test)
 
    [Git](https://git-scm.com)
 
-Si quieres ver algo rápido, mira esto [Asphalt][gh].
-Y mira, un comic [Downtherabbithole][ds].
-[gh]: https://asphaltlegends.com/es
-[ds]: https://asphaltlegends.com/es/news/down-the-rabbit-hole-comic
+Si quieres ver algo rápido, mira esto [Asphalt](https://asphaltlegends.com/es).
+Y mira, un comic [Downtherabbithole](https://asphaltlegends.com/es/news/down-the-rabbit-hole-comic).
 
-![SUPERMEATBOY](https://imgur.com/KysyPF6)
+Consulta [GitHub][gh].
+Visita de nuevo [GitHub][gh].
+[gh]: https://github.com
+
+
+![SUPERMEATBOY](https://i.imgur.com/KysyPF6.png)
