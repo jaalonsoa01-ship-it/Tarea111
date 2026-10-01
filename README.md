@@ -33,5 +33,10 @@ Consulta [GitHub][gh].
 Visita de nuevo [GitHub][gh].
 [gh]: https://github.com
 
+### Imagen desde Link
 
 ![SUPERMEATBOY](https://i.imgur.com/KysyPF6.png)
+
+### Imagen desde Carpeta
+
+![Kasumi](images/Kasumi.jpg)
